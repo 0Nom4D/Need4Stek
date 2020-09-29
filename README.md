@@ -10,6 +10,7 @@ Unfortunatly, CoppeliaSim isn't on the repository for the moment (space problem 
 # Our Group
 <details>
   <summary>3 EPITECH Students</summary>
+  We're actually in Tek2 and working on our intership until december. We're also from EPITECH 2024 promotion in Nantes campus.
   Arthur ADAM | Alban BODENES | Simon Thibaud
 </details>
 
