@@ -1,17 +1,46 @@
 # Need4Stek
-AI EPITECH Project
+Need4Stek project is an EPITECH AI Project. This one counts for the AI-200 (Introduction to AI) Tek1 module.
 
-Epitech project. Simulation of an autonomous car between the software CoppeliaSim and a C program.
+This project is a simulation of a car on multiples tracks.
 
-Execute "coppeliaSim.sh" to open V-REP and open a .ttt file in the software. Do "make" to create the binary "ai". Execute "pipe.sh" to execute the program and look Coppelia.
+## Before continuing...
 
-Unfortunatly, CoppeliaSim isn't on the repository for the moment (space problem on repository).
+This project is an EPITECH Project. If you are an EPITECH student, move out the way! Nothing to see here... The groups don't want to be involved to your -42.<br/>
+<div class="tenor-gif-embed" data-postid="12392868" data-share-method="host" data-width="100%" data-aspect-ratio="1.4228571428571428"><a href="https://tenor.com/view/evil-beware-we-have-waffles-teen-titans-waffle-day-evil-beware-gif-12392868">Evil Beware We Have Waffles Teen Titans GIF</a> from <a href="https://tenor.com/search/evilbewarewehavewaffles-gifs">Evilbewarewehavewaffles GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script><br/>
+If you're not, no worries! You're welcome here!
 
-# Our Group
-<details>
-  <summary>3 EPITECH Students</summary>
-  We're actually in Tek2 and working on our intership until december. We're also from EPITECH 2024 promotion in Nantes campus.
-  Arthur ADAM | Alban BODENES | Simon Thibaud
-</details>
+### Prerequisites
 
-## To new EPITECH students, do not copy paste this code. You may have trouble and we don't want to be part of theses troubles!
+To use this / test this, you'll need CoppeliaSim binary:
+
+* [CoppeliaSim Download link isn't available for now!]
+
+### Building program
+
+Need4Stek is an AI project. You can build the project using:
+```
+$> make
+```
+
+Then, to launch and watch what's happening in the simulation, you have to launch CoppeliaSim and pipes.sh:
+```
+First Terminal:
+  $> ./coppeliaSim.sh
+
+Second Terminal:
+  $> ./pipes.sh
+```
+
+Finnaly, you'll see your car move on coppeliaSim.
+
+### Coding Style
+
+Need4Stek respects the **EPITECH C** coding style.
+
+## Authors
+
+* **Arthur Adam** - [0Nom4D](https://github.com/0Nom4D)
+* **Simon Thibaud** - [SimonTHD](https://github.com/SimonTHD)
+* **Alban Bodenes**
+
+See also the list of [contributors](https://github.com/0Nom4D/Need4Stek/graphs/contributors) who participated in this project.%
