@@ -13,7 +13,7 @@ If you're not, no worries! You're welcome here!
 
 To use this / test this, you'll need CoppeliaSim binary:
 
-* [CoppeliaSim Download link isn't available for now!]
+* [CoppeliaSim Download](https://drive.google.com/file/d/1u8Iv2quw0IyKeFp92ibR35lAz26Qz0Oj/view?usp=sharing)
 
 ### Building program
 
