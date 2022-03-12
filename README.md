@@ -41,6 +41,6 @@ Need4Stek respects the **EPITECH C** coding style.
 
 * **Arthur Adam** - [0Nom4D](https://github.com/0Nom4D)
 * **Simon Thibaud** - [SimonTHD](https://github.com/SimonTHD)
-* **Alban Bodenes**
+* **Alban Bodenes** - [Alban-Bodenes](https://github.com/Alban-Bodenes)
 
 See also the list of [contributors](https://github.com/0Nom4D/Need4Stek/graphs/contributors) who participated in this project.%
